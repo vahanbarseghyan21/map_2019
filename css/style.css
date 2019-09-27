@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#map{
+    width: 640px;
+    height: 540px;
+    /*border: 1px solid red;*/
+}
+img{
+	width: 64px;
+    height: 54px;
+}
